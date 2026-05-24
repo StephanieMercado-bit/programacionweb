@@ -1,0 +1,27 @@
+.semana-tematica{
+    position: relative;
+    background-image: url('/img/restaurante.jpg');
+    background-size: cover;
+    height: 550px;
+}
+
+h1{
+
+    color: #222222;
+    text-align: center;
+}
+
+.texto-tematico{
+    background-color: #eefcffcf;
+    color: black;
+    font-family: "Poppins";
+    font-size: 14px;
+    position: absolute;
+    width: 857px;
+    height: auto, center;
+    margin-left: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+    padding: 24px;
+}
+
